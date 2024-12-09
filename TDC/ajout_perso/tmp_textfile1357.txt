@@ -1,0 +1,2 @@
+#sd  ch    start_counter             time
+# next measurement
